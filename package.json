@@ -1,0 +1,14 @@
+{
+  "name": "ramitos-siblings",
+  "description": "get the siblings of an element",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "siblings"
+  ],
+  "main": "src/siblings.js",
+  "dependencies": {
+    "ramitos-children": "git://github.com/npmcomponent/ramitos-children.git"
+  },
+  "license": "MIT"
+}
